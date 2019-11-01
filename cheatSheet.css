@@ -1,0 +1,83 @@
+/*comment*/
+
+h1 {
+    color: #111e6c;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    color: #0f52ba;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    color: #4682b4;
+}
+
+#www {
+    border-top: solid;
+    border-bottom: solid;
+}
+
+#webserver {
+    border-bottom: solid;
+}
+
+#webclient {
+    border-bottom: solid;
+}
+
+#helloworld {
+    border-bottom: solid;
+}
+
+#html {
+    border-bottom: solid;
+}
+
+#css {
+    border-bottom: solid;
+}
+
+#bullet {
+    border-top: dotted;
+    border-bottom: dotted;
+    list-style-type: square;
+    list-style: upper-roman;
+    list-style-position: inside;
+    list-style-position: outside;
+}
+
+#tags {
+    border-bottom: solid;
+    border-width: 1px;
+}
+
+table {
+    border-style: dotted;
+    border-width: 1px;
+    border-style: solid;
+    border-color: red;
+    border-radius: 50%;
+}
+
+#box {
+    border-bottom: solid;
+}
+
+#classAndId {
+    border-bottom: solid;
+}
+
+#floating {
+    border-bottom: solid;
+}
+
+#copyright {
+    border-bottom: solid;
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+}
